@@ -1,9 +1,8 @@
+#encoding: utf-8
 require 'rubygems'
 require 'sinatra'
 require 'sinatra/reloader'
-require 'sinatra/activerecord'
 
-# Роуты для страниц
 get '/' do
 	erb :index		
 end
