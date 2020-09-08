@@ -32,3 +32,9 @@ end
 get '/contacts' do
   erb :contacts
 end
+
+
+
+get '/public/v.mp4' do
+  "Hello World"
+end
