@@ -1,0 +1,33 @@
+<nav class="navbar navbar-expand-lg navbar-light bd-nav" style="background: #AC172B; z-index: 999; top: 0px; height: 80px"> 
+	  				<a class="navbar-brand" style="color: white;" href="/"><em><b><img src="image/logo_1.png" style="height: 100px; margin-top: 20px;"></b></em><a>
+	  					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    			<span class="navbar-toggler-icon"></span>
+	  					</button>
+	 				<div class="collapse navbar-collapse" id="navbarText">
+	 			<ul class="navbar-nav ml-auto" style="margin-bottom: 0px;">
+	 				<h4 style="font-size: 20px; color: white;">КОНДИТЕРСКАЯ ФАБРИКА</h4>
+	 			
+	 			</ul>		
+	 			<ul class="navbar-nav ml-auto" style="margin-bottom: 0px;">
+	 				
+	 				<h3 style="font-size: 40px; color: white;">BURKUT</h3>
+	 			</ul>		
+	    		<ul class="navbar-nav ml-auto" style="height: 100px;">
+	      			<li class="nav-item">
+	        		<a class="nav-link" style="color: white; margin-top: 70px; font-size: 22px;" href="/something"><b><span class="badge" style="background:#AC172B;">О НАС</b></a>
+	      			</li>
+	      			<li class="nav-item">
+	        			<a class="nav-link" style="color: white; margin-top: 70px; font-size: 22px" href="/products"><b><span class="badge" style="background:#AC172B;">ПРОДУКЦИЯ</span></b></a>
+	      			</li>
+	      			<li class="nav-item">
+	        			<a class="nav-link" style="color: white; margin-top: 70px; font-size: 22px" href="/partners"><b><span class="badge" style="background:#AC172B;">ПАРТНЁРАМ</span></b></a>
+	      			</li>
+	      			</li>
+	      			<li class="nav-item">
+	        			<a class="nav-link" style="color: white; margin-top: 70px; font-size: 22px" href="/vacancies"><b><b><span class="badge" style="background:#AC172B;">ВАКАНСИИ</span></b></a>
+	      			</li>
+	      			<li class="nav-item">
+	        			<a class="nav-link" style="color: white; margin-top: 70px; font-size: 22px" href="/contacts"><b><span class="badge" style="background:#AC172B;">КОНТАКТЫ</span></b></a>
+	      			</li>	
+	    		</ul>
+		        </nav>
